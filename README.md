@@ -1,6 +1,9 @@
 # ida-plugin-plugin
 Plugins for plugins
 
+"ida-plugin-plugin" goes in `<ida plugin directory>/`  
+Plugins for "ida-plugin-plugin" go in `<ida plugin directory>/pm-plugins/`  
+
 ## Example
 
 ```py
